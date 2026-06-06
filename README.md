@@ -13,3 +13,4 @@ okay so we use a kind of commands in git's terminal like <br>
 7: git --clear// for empty terminal<br>
 8: ls -force // use to check or track all file + hidden ones<br>
 9: git status // for displaying codes status.
+10: git add . and git commit -m // these 2 commads use after changing or modifiling somthing in editor so first we use add commads and then we commit it and this how our code is added in repo bu editing it from vs code to github repo.
