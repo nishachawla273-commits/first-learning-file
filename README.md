@@ -11,3 +11,4 @@ okay so we use a kind of commands in git's terminal like <br>
 5: git clone // for creating a copy of repo code link<br>
 6: cd first learning file(folder name) // cd is change directory command use when we want to go into a internal folder from outer one <br>
 7: git --clear// for empty terminal<br>
+8: ls -force // use to check or track all file + hidden ones<br>
