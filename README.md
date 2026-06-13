@@ -1,13 +1,4 @@
 # first-learning-file
-commands related to branches<br>
-. git checkout -b (name of new branch)// use to create new branches<br>
-. git checkout main (here main is the branch name)// use to switch from one branch to other. <br>
-. git branch // tell in which branch we are(by default it is named by main). <br>
-. git branch-M main // to renamin branch.<br>
-. git checkout -d (name of branch)// use to delt branch.<br>
-. git pull origin main // use at time time when we do changes on github and we wants them to appere or connected with the local work.<br>
-.git diff (branch name)// lets us knows the changes or differences between branches. <br>
-. git merge (branch name)// to merge / combines to branches.
 this is my first file which i made while learning github through apna collage youtube channel.
 <br>
 so! this line i worte to check that whatever i am writing or editing after creating the repo is happening by clickinh the readme's edit icon and yes after editing it we should click the commit change button.
@@ -29,6 +20,14 @@ okay so we use a kind of commands in git's terminal like <br>
 14: git init // use to make new folder a git repo. <br>
 15: git remote add origin(or any new repo name)link(add the github repo proj link)// use to connect remotly .<br>
 16: git remote -v // to verify link<br>
-
+commands related to branches<br>
+. git checkout -b (name of new branch)// use to create new branches<br>
+. git checkout main (here main is the branch name)// use to switch from one branch to other. <br>
+. git branch // tell in which branch we are(by default it is named by main). <br>
+. git branch-M main // to renamin branch.<br>
+. git checkout -d (name of branch)// use to delt branch.<br>
+. git pull origin main // use at time time when we do changes on github and we wants them to appere or connected with the local work.<br>
+.git diff (branch name)// lets us knows the changes or differences between branches. <br>
+. git merge (branch name)// to merge / combines to branches.
 
 
