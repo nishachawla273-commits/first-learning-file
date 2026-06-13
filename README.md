@@ -21,3 +21,5 @@ okay so we use a kind of commands in git's terminal like <br>
 15: git remote add origin(or any new repo name)link(add the github repo proj link)// use to connect remotly .<br>
 16: git remote -v // to verify link<br>
 
+
+
