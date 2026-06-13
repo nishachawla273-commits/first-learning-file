@@ -20,5 +20,4 @@ okay so we use a kind of commands in git's terminal like <br>
 14: git init // use to make new folder a git repo. <br>
 15: git remote add origin(or any new repo name)link(add the github repo proj link)// use to connect remotly .<br>
 16: git remote -v // to verify link<br>
-17: git branch // tell in which branch we are(by default it is named by main). <br>
-18git branch-M main // to renamin branch.<br>
+
