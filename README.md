@@ -22,3 +22,13 @@ okay so we use a kind of commands in git's terminal like <br>
 16: git remote -v // to verify link<br>
 17: git branch // tell in which branch we are(by default it is named by main). <br>
 18git branch-M main // to renamin branch.<br>
+
+commands related to branches
+. git checkout -b (name of new branch)// use to create new branches
+. git checkout main (here main is the branch name)// use to switch from one branch to other.
+. git branch // tell in which branch we are(by default it is named by main).
+. git branch-M main // to renamin branch.
+. git checkout -d (name of branch)// use to delt branch.
+. git pull origin main // use at time time when we do changes on github and we wants them to appere or connected with the local work.
+.git diff (branch name)// lets us knows the changes or differences between branches.
+. git merge (branch name)// to merge / combines to branches.
