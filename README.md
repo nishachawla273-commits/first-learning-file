@@ -31,4 +31,5 @@ commands related to branches<br>
 . git merge (branch name)// to merge / combines to branches.
 . git pull origin main // use at time time when we do changes on github and we wants them to appere or connected with the local work.<br>
 
-
+undoing changes commands<br>
+hello
