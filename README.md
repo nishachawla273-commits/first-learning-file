@@ -31,7 +31,12 @@ commands related to branches<br>
 . git merge (branch name)// to merge / combines to branches.
 . git pull origin main // use at time time when we do changes on github and we wants them to appere or connected with the local work.<br>
 
+
 undoing changes commands<br>
 1 case 1 (stage changes mean those changes which r added but didn't commited)<br>
 .git reset (file name)// use for any spacific file change undo<br>
 .git reset // for all change<br>
+
+
+
+
