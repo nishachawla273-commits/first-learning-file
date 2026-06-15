@@ -14,7 +14,7 @@ okay so we use a kind of commands in git's terminal like <br>
 8: ls -force // use to check or track all file + hidden ones<br>
 9: git status // for displaying codes status.<br>
 10: git add . and git commit -m // these 2 commads use after changing or modifiling somthing in editor so first we use add commads and then we commit it and this how our code is added in repo editing it from vs code to github repo.<br> 
-11: git push origin main // final push in repo .
+11: git push origin main // final push in repo .<br>
 12: cd .. // use to get out from current directory. <br>
 13: mkdir(name to new repo/folder)// to create new directory. <br>
 14: git init // use to make new folder a git repo. <br>
